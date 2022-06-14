@@ -9,7 +9,7 @@ The following will install this config if you have an existing config it will mo
 This script only supports Mac, Ubuntu and Arch
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/ArkjuniorK/nvim/master/utils/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ArkjuniorK/nvim.vscode/stable/utils/install.sh)
 ```
 
 ## Install Neovim
@@ -41,7 +41,7 @@ bash <(curl -s https://raw.githubusercontent.com/ArkjuniorK/nvim/master/utils/in
 ## Clone this repo into your config
 
 ```
-git clone https://github.com/ArkjuniorK/nvim.git ~/.config/nvim
+git clone https://github.com/ArkjuniorK/nvim.vscode.git ~/.config/nvim
 ```
 
 ## Install python & node support
